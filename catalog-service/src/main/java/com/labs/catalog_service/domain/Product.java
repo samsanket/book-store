@@ -7,6 +7,3 @@ public record Product(String code ,
                       String imageUrl
 ) {
 }
-
-
-//dckr_pat_EU91hTA-RxR8aUZsTOYuII3emhM
